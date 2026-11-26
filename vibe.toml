@@ -2,7 +2,7 @@
 name = "zap"
 group = "org.vibevm.zap"
 kind = "flow"
-version = "1.0.12"
+version = "1.0.13"
 epoch = 1
 format = "normal"
 authors = ["Oleg Chirukhin"]
